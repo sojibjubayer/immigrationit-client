@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="lg:col-span-2">
             <div className="flex items-center gap-3">
               <div className="flex h-10 w-10 items-center justify-center rounded bg-[#0F766E] font-bold">
-                IT
+                IIT
               </div>
               <span className="text-xl font-extrabold tracking-tight">ImmigrationIT</span>
             </div>

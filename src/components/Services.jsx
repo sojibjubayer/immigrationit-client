@@ -1,16 +1,16 @@
 const services = [
-  {
-    title: "Immigration CRM Development",
-    description:
-      "Custom immigration CRM software for immigration consultants, visa agencies, and education consultancies to manage clients, visa applications, documents, consultants, tasks, and business operations.",
-    points: [
-      "Client and consultant management",
-      "Visa application and case tracking",
-      "Document checklist management",
-      "Task and follow-up reminders",
-      "Dashboard and performance reports",
-    ],
-  },
+{
+  title: "Immigration CRM Development",
+  description:
+    "A complete immigration CRM and visa management platform for consultancies to manage clients, visitors, consultants, applications, follow-ups, staff activity, revenue, and daily operations from one centralized dashboard.",
+  points: [
+    "Client, visitor, and consultant management",
+    "Visa application and service management",
+    "Lead, follow-up, and To-Do management",
+    "Consultant, revenue, and activity reports",
+    "Role-based access and visa modules",
+  ],
+},
   {
     title: "Lead Management System",
     description:
